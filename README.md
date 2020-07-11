@@ -1,3 +1,7 @@
 # UTS-31251-CPP
-##STOP LOOKING INTO THIS REPOSITORY :) 
 
+## A1 Directed Graph
+100/100.
+
+## A2 Directed Acyclic Graph
+100/100.
